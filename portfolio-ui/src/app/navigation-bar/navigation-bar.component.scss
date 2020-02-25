@@ -1,0 +1,26 @@
+.nav-bar {
+
+}
+
+.color-accent-1 {
+    background-color: #2f2f2f;
+}
+
+.color-accent-2 {
+    background-color: #1f1f1f;
+}
+
+.nav-bar-btn {
+    padding: 10px 10px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.nav-bar-btn:hover {
+    background-color: grey;
+}
+
+
+.nav-bar-btn:focus  {
+    outline: 0 !important;
+}
